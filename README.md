@@ -25,5 +25,8 @@ Front-end developer 💻
     <li>
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </li>
+    <li>
+        <img src="https://camo.githubusercontent.com/53eb638eebe0366f06f31cc35f0769c9437b12b9c88f68c69bf12dfa0bcf7e4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3335343935453f7374796c653d666f722d7468652d6261646765266c6f676f3d7675652e6a73266c6f676f436f6c6f723d344643303844">
+    </li>
 </ul>
 </div>
