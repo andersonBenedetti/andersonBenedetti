@@ -26,7 +26,7 @@ Front-end developer 💻
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </li>
     <li>
-        <img src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     </li>
 </ul>
 </div>
