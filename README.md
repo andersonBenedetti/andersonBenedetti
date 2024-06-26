@@ -41,13 +41,6 @@
 <br/>
 <hr/>
 
-
-<h2 align="center">⚡ Estatísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=andersonBenedetti&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
 <br/><br/>
 
 <br/>
