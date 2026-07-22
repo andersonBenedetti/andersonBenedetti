@@ -1,27 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFAA&lines=Olá!+👋;+Eu+sou+o+Anderson+Benedetti!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFAA&lines=Olá!+👋;+Eu+sou+o+Anderson+Benedetti!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  Desenvolvedor de software apaixonado por criar soluções funcionais e experiências incríveis.  
-  Orgulhosamente gaúcho 🇧🇷
+  Desenvolvedor Front-End / Software Developer | Orgulhosamente gaúcho 🇧🇷
 </h3>
 
-<br/>
+<p align="center">
+  <em>Desenvolvendo soluções funcionais, modernas e com foco em alta performance.</em>
+</p>
 
-<div align="center">
-  
- 🔭 Atualmente atuando na <strong>Blume Web Studio</strong>  
-  
-🌱 Sempre em evolução: atualmente aprofundando meus conhecimentos em JavaScript e TypeScript, com foco no desenvolvimento de interfaces modernas, escaláveis e performáticas utilizando o ecossistema React.js.
-  
- ⚡ Curiosidade nerd: <em>Os astronautas na Estação Espacial Internacional veem o nascer do sol a cada 90 minutos!</em>  
-
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <a href="mailto:andersonjcbenedetti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
@@ -34,23 +23,44 @@
   <a href="https://www.instagram.com/bene.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-</div>
+</p>
 
-<br/>
-<hr/>
+<br />
 
-<h2 align="center">⚒️ Tecnologias & Ferramentas ⚒️</h2>
+---
 
-<br/>
+## 🚀 Sobre Mim
+
+* 🔭 Atualmente atuando na **Blume Web Studio**.
+* 🌱 **Sempre em evolução:** Aprofundando conhecimentos em **JavaScript** e **TypeScript**, focado em criar interfaces modernas, escaláveis e performáticas com **React.js**.
+* ⚡ **Curiosidade nerd:** Os astronautas na Estação Espacial Internacional (ISS) veem o nascer do sol a cada 90 minutos! 🌌
+
+<br />
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,sass,tailwind,vscode,github,figma,git,wordpress" alt="Tech Stack 1" />
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,netlify,mysql" alt="Tech Stack 2" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,vue" alt="Frontend Stack" /><br />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,wordpress,git,github,vscode,figma,netlify" alt="Backend & Tools" />
 </div>
 
-<br/>
-<hr/>
+<br />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FFAA&lines=Obrigado+pela+atenção!" />
-</h1>
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&hide_border=false"/>
+</div>
+
+<br />
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=50&duration=4000&color=00FFAA&lines=Obrigado+pela+visita!+🚀" alt="Typing SVG Footer" />
+</h2>
