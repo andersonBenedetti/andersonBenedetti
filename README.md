@@ -56,16 +56,6 @@
 
 <br/>
 
-<!-- Estatísticas do GitHub -->
-<h2 align="center">📊 Estatísticas</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonbenedetti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbenedetti&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFAA" alt="Top Languages" />
-</div>
-
-<br/>
-
 <!-- Seção de Tecnologias -->
 <h2 align="center">⚒️ Tecnologias & Ferramentas</h2>
 
@@ -82,28 +72,6 @@
 <h3 align="center">🛠️ Ferramentas & DevOps</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,wordpress,netlify,vercel" alt="Tools Stack" />
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribuições</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonbenedetti/andersonbenedetti/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonbenedetti/andersonbenedetti/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/andersonbenedetti/andersonbenedetti/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- Troféus -->
-<h2 align="center">🏆 Conquistas</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersonbenedetti&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
